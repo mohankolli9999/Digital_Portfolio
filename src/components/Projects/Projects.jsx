@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaGithub, FaLink, FaNewspaper } from 'react-icons/fa';
+import { FaGithub, FaNewspaper } from 'react-icons/fa';
 import data from './projects_data.js';
 import './Projects.css';
 
